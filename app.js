@@ -1,7 +1,8 @@
 document.getElementById("mensaje").textContent="Hola Mundo";
-/* document.writeln("<h1>Hola Mundo</h1>");
+document.writeln("<h1>Hola Mundo</h1>");
 
 
+/*
 //array
 let arreglo1 = ['joe', 'ryan', 'martha'];
 let arreglo2 = [1,2,3];
@@ -25,11 +26,12 @@ while(input!=password){
     prompt("Ingrese su contrasena");    
 }
   
-*/
+
 
 let count = 50;
 while(count > 0){
     console.log(count);
     count = count - 1;
 }
-  
+*/
+
